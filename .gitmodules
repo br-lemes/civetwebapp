@@ -1,0 +1,3 @@
+[submodule "www/fatcow"]
+	path = www/fatcow
+	url = git@github.com:civetwebapp/fatcow.git
